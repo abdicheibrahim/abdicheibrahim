@@ -44,7 +44,7 @@ Internal tools for HR, attendance, scheduling, and inventory.
 
 ---
 
-### 📚 Education
+### 🎓 Education & Training
 
 **Master’s Degree in Computer Science**  
 Ibn Khaldoun University, Tiaret – 2020 – 2022
@@ -52,31 +52,37 @@ Ibn Khaldoun University, Tiaret – 2020 – 2022
 **Bachelor’s Degree in Computer Science**  
 Ibn Khaldoun University, Tiaret – 2017 – 2020
 
----
-
-### 🎓 Training
-
 **.NET Full Stack Development**  
 Information Technology Institute (ITI), Egypt – 2022 – 2023  
 🔹 Covered ASP.NET Core, Entity Framework, API design, and best practices
 
 ---
 
-### 🛠️ Technical Skills
+### 🛠️ Tech Stack & Tools
 
-| Category       | Technologies |
-|----------------|-------------|
-| **Backend**    | C#, OOP, LINQ, ASP.NET MVC, ASP.NET Web API, ASP.NET Core |
-| **Frontend**   | HTML, CSS, JavaScript, Bootstrap, Blazor |
-| **Database**   | SQL Server, MySQL, Entity Framework Core |
-| **Tools**      | Git, GitHub, Visual Studio, Postman |
+<div align="left">
+  <h4>Backend</h4>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,aspnet,linq" />
+  <br><br>
+
+  <h4>Frontend</h4>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,blazor" />
+  <br><br>
+
+  <h4>Database</h4>
+  <img src="https://skillicons.dev/icons?i=sqlserver,mysql" />
+  <br><br>
+
+  <h4>Tools & DevOps</h4>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,swagger" />
+</div>
 
 ---
 
 ### 🌍 Languages
-- Arabic (Native)
-- French (Intermediate)
-- English (Intermediate)
+- 🇩🇿 Arabic (Native)
+- 🇫🇷 French (Intermediate)
+- 🇬🇧 English (Intermediate)
 
 ---
 
@@ -96,5 +102,5 @@ Information Technology Institute (ITI), Egypt – 2022 – 2023
 
 ---
 
-> 💡 Currently advancing my skills in **Blazor** to build dynamic web apps with C#  
+> 💡 Currently mastering **Blazor** to build dynamic web apps with C#  
 > 🚀 Passionate about clean code, scalable architecture, and solving real-world problems
